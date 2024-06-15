@@ -1,0 +1,478 @@
+<img class="masthead-avatar mb-5" src="img/avataaars.svg" alt="avatar">
+​
+accessKey: ""
+​
+accessKeyLabel: ""
+​
+align: ""
+​
+alt: "avatar"
+​
+ariaAtomic: null
+​
+ariaAutoComplete: null
+​
+ariaBrailleLabel: null
+​
+ariaBrailleRoleDescription: null
+​
+ariaBusy: null
+​
+ariaChecked: null
+​
+ariaColCount: null
+​
+ariaColIndex: null
+​
+ariaColIndexText: null
+​
+ariaColSpan: null
+​
+ariaCurrent: null
+​
+ariaDescription: null
+​
+ariaDisabled: null
+​
+ariaExpanded: null
+​
+ariaHasPopup: null
+​
+ariaHidden: null
+​
+ariaInvalid: null
+​
+ariaKeyShortcuts: null
+​
+ariaLabel: null
+​
+ariaLevel: null
+​
+ariaLive: null
+​
+ariaModal: null
+​
+ariaMultiLine: null
+​
+ariaMultiSelectable: null
+​
+ariaOrientation: null
+​
+ariaPlaceholder: null
+​
+ariaPosInSet: null
+​
+ariaPressed: null
+​
+ariaReadOnly: null
+​
+ariaRelevant: null
+​
+ariaRequired: null
+​
+ariaRoleDescription: null
+​
+ariaRowCount: null
+​
+ariaRowIndex: null
+​
+ariaRowIndexText: null
+​
+ariaRowSpan: null
+​
+ariaSelected: null
+​
+ariaSetSize: null
+​
+ariaSort: null
+​
+ariaValueMax: null
+​
+ariaValueMin: null
+​
+ariaValueNow: null
+​
+ariaValueText: null
+​
+assignedSlot: null
+​
+attributes: NamedNodeMap(3) [ class="masthead-avatar mb-5", src="img/avataaars.svg", alt="avatar" ]
+​
+autocapitalize: ""
+​
+autofocus: false
+​
+baseURI: "https://dev-tools.alx-tools.com/"
+​
+border: ""
+​
+childElementCount: 0
+​
+childNodes: NodeList []
+​
+children: HTMLCollection { length: 0 }
+​
+classList: DOMTokenList [ "masthead-avatar", "mb-5" ]
+​
+className: "masthead-avatar mb-5"
+​
+clientHeight: 255
+​
+clientLeft: 0
+​
+clientTop: 0
+​
+clientWidth: 240
+​
+complete: true
+​
+contentEditable: "inherit"
+​
+crossOrigin: null
+​
+currentCSSZoom: 1
+​
+currentSrc: "https://dev-tools.alx-tools.com/img/avataaars.svg"
+​
+dataset: DOMStringMap(0)
+​
+decoding: "auto"
+​
+dir: ""
+​
+draggable: true
+​
+enterKeyHint: ""
+​
+firstChild: null
+​
+firstElementChild: null
+​
+height: 255
+​
+hidden: false
+​
+hspace: 0
+​
+id: ""
+​
+inert: false
+​
+innerHTML: ""
+​
+innerText: ""
+​
+inputMode: ""
+​
+isConnected: true
+​
+isContentEditable: false
+​
+isMap: false
+​
+lang: ""
+​
+lastChild: null
+​
+lastElementChild: null
+​
+loading: "eager"
+​
+localName: "img"
+​
+longDesc: ""
+​
+lowsrc: ""
+​
+name: ""
+​
+namespaceURI: "http://www.w3.org/1999/xhtml"
+​
+naturalHeight: 0
+​
+naturalWidth: 0
+​
+nextElementSibling: <h1 class="masthead-heading text-uppercase mb-0">
+​
+nextSibling: #text "\n\n      "
+​
+nodeName: "IMG"
+​
+nodeType: 1
+​
+nodeValue: null
+​
+nonce: ""
+​
+offsetHeight: 255
+​
+offsetLeft: 201
+​
+offsetParent: <body id="page-top" cz-shortcut-listen="true">
+​
+offsetTop: 170
+​
+offsetWidth: 240
+​
+onabort: null
+​
+onanimationcancel: null
+​
+onanimationend: null
+​
+onanimationiteration: null
+​
+onanimationstart: null
+​
+onauxclick: null
+​
+onbeforeinput: null
+​
+onbeforetoggle: null
+​
+onblur: null
+​
+oncancel: null
+​
+oncanplay: null
+​
+oncanplaythrough: null
+​
+onchange: null
+​
+onclick: null
+​
+onclose: null
+​
+oncontextlost: null
+​
+oncontextmenu: null
+​
+oncontextrestored: null
+​
+oncopy: null
+​
+oncuechange: null
+​
+oncut: null
+​
+ondblclick: null
+​
+ondrag: null
+​
+ondragend: null
+​
+ondragenter: null
+​
+ondragexit: null
+​
+ondragleave: null
+​
+ondragover: null
+​
+ondragstart: null
+​
+ondrop: null
+​
+ondurationchange: null
+​
+onemptied: null
+​
+onended: null
+​
+onerror: null
+​
+onfocus: null
+​
+onformdata: null
+​
+onfullscreenchange: null
+​
+onfullscreenerror: null
+​
+ongotpointercapture: null
+​
+oninput: null
+​
+oninvalid: null
+​
+onkeydown: null
+​
+onkeypress: null
+​
+onkeyup: null
+​
+onload: null
+​
+onloadeddata: null
+​
+onloadedmetadata: null
+​
+onloadstart: null
+​
+onlostpointercapture: null
+​
+onmousedown: null
+​
+onmousemove: null
+​
+onmouseout: null
+​
+onmouseover: null
+​
+onmouseup: null
+​
+onpaste: null
+​
+onpause: null
+​
+onplay: null
+​
+onplaying: null
+​
+onpointercancel: null
+​
+onpointerdown: null
+​
+onpointerenter: null
+​
+onpointerleave: null
+​
+onpointermove: null
+​
+onpointerout: null
+​
+onpointerover: null
+​
+onpointerup: null
+​
+onprogress: null
+​
+onratechange: null
+​
+onreset: null
+​
+onresize: null
+​
+onscroll: null
+​
+onscrollend: null
+​
+onsecuritypolicyviolation: null
+​
+onseeked: null
+​
+onseeking: null
+​
+onselect: null
+​
+onselectionchange: null
+​
+onselectstart: null
+​
+onslotchange: null
+​
+onstalled: null
+​
+onsubmit: null
+​
+onsuspend: null
+​
+ontimeupdate: null
+​
+ontoggle: null
+​
+ontransitioncancel: null
+​
+ontransitionend: null
+​
+ontransitionrun: null
+​
+ontransitionstart: null
+​
+onvolumechange: null
+​
+onwaiting: null
+​
+onwebkitanimationend: null
+​
+onwebkitanimationiteration: null
+​
+onwebkitanimationstart: null
+​
+onwebkittransitionend: null
+​
+onwheel: null
+​
+outerHTML: '<img class="masthead-avatar mb-5" src="img/avataaars.svg" alt="avatar">'
+​
+outerText: ""
+​
+ownerDocument: HTMLDocument https://dev-tools.alx-tools.com/
+​
+parentElement: <div class="container d-flex align-items-center flex-column">
+​
+parentNode: <div class="container d-flex align-items-center flex-column">
+​
+part: DOMTokenList []
+​
+popover: null
+​
+prefix: null
+​
+previousElementSibling: null
+​
+previousSibling: #text "\n      "
+​
+referrerPolicy: ""
+​
+role: null
+​
+scrollHeight: 255
+​
+scrollLeft: 0
+​
+scrollLeftMax: 0
+​
+scrollTop: 0
+​
+scrollTopMax: 0
+​
+scrollWidth: 240
+​
+shadowRoot: null
+​
+sizes: ""
+​
+slot: ""
+​
+spellcheck: false
+​
+src: "https://dev-tools.alx-tools.com/img/avataaars.svg"
+​
+srcset: ""
+​
+style: CSS2Properties(0)
+​
+tabIndex: -1
+​
+tagName: "IMG"
+​
+textContent: ""
+​
+title: ""
+​
+translate: true
+​
+useMap: ""
+​
+vspace: 0
+​
+width: 240
+​
+x: 201
+​
+y: 170
+​
+<prototype>: HTMLImageElementPrototype { decode: decode(), alt: Getter & Setter, src: Getter & Setter, … }
+
