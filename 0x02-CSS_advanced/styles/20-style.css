@@ -199,6 +199,6 @@ ul.row {
 
 .row::after {
     content: "";
-    display: block;
+    display: table;
     clear: both;
 }
